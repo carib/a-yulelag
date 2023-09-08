@@ -1,0 +1,11 @@
+{
+  "builder": {
+    "type": "static-site",
+    "source": [
+      {
+        "path": "/",
+        "type": "source"
+      }
+    ]
+  }
+}
