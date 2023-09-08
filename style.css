@@ -17,6 +17,26 @@ body {
     background-size: cover;
 }
 
+.hidden-link {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.hidden-link a {
+    text-decoration: none;
+    color: transparent;
+    height: 100%;
+    display: block;
+    width: 100%;
+}
+
+.hidden-link:hover {
+    cursor: pointer;
+}
+
 .spinner {
     margin: auto;
     font-size: 25px;
