@@ -33,7 +33,7 @@ body {
     width: 100%;
 }
 
-.hidden-link:hover {
+.hidden-link a:hover {
     color: white;
     cursor: pointer;
 }
