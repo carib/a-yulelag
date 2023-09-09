@@ -23,11 +23,12 @@ body {
     position: absolute;
     bottom: 0;
     right: 0;
+    background-color: white;
 }
 
 .hidden-link a {
-    text-decoration: none;
-    color: transparent;
+    /*text-decoration: none;*/
+    /*color: transparent;*/
     height: 100%;
     display: block;
     width: 100%;
